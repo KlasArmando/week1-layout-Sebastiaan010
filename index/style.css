@@ -1,0 +1,21 @@
+body {
+    overflow : hidden;
+}
+.test{
+    background-color: rgba(34,34,34,0.9);
+    color : azure;
+
+
+}
+
+.navbar-brand, li a {
+    color: #e2f442;
+}
+
+ a:hover {
+    color: #fff !important;
+}
+
+img {
+
+}
